@@ -2,10 +2,6 @@
 
 This repository contains the static HTML version of the Empowerkit website, converted from WordPress for hosting on GitHub Pages.
 
-## 🌐 Live Site
-
-The site will be available at: `https://marce-romero.github.io/ek-site/`
-
 ## 📁 Structure
 
 ```
@@ -58,33 +54,9 @@ Since this is a static HTML site, you'll need to edit the HTML files directly:
 
 The contact email is currently set to `support@empowerkit.com` in `/docs/contact-us/index.html`. To change it:
 
-1. Open `docs/contact-us/index.html`
-2. Search for `support@empowerkit.com`
-3. Replace with new email
-4. Commit and push
-
-## 🚀 Deployment
-
-The site is automatically deployed to GitHub Pages when you push to the `main` branch.
-
-### First-time Setup
-
-1. Go to your GitHub repository settings
-2. Navigate to "Pages" section
-3. Set source to: **Deploy from a branch**
-4. Select branch: **main**
-5. Select folder: **/docs**
-6. Click "Save"
-
-The site will be live at `https://marce-romero.github.io/ek-site/` within a few minutes.
-
 ## 📧 Contact
 
 For support and inquiries: support@empowerkit.com
-
-## ⚠️ Important Note
-
-**Empowerkit will be officially discontinued. The final shutdown of all products and services is scheduled for January 15th, 2026.**
 
 ## 📜 License
 
